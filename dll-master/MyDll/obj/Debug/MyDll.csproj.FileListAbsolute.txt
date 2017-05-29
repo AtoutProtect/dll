@@ -1,0 +1,10 @@
+C:\Users\Mickael\Documents\Atout Protect C#\AP_1\MyDll\bin\Debug\MyDll.dll
+C:\Users\Mickael\Documents\Atout Protect C#\AP_1\MyDll\bin\Debug\MyDll.pdb
+C:\Users\Mickael\Documents\Atout Protect C#\AP_1\MyDll\obj\Debug\MyDll.dll
+C:\Users\Mickael\Documents\Atout Protect C#\AP_1\MyDll\obj\Debug\MyDll.pdb
+C:\Users\Mickael\Documents\Atout Protect C#\AP_1\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Desktop\dll-master\MyDll\bin\Debug\MyDll.dll
+C:\Users\Mickael\Desktop\dll-master\MyDll\bin\Debug\MyDll.pdb
+C:\Users\Mickael\Desktop\dll-master\MyDll\obj\Debug\MyDll.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Desktop\dll-master\MyDll\obj\Debug\MyDll.dll
+C:\Users\Mickael\Desktop\dll-master\MyDll\obj\Debug\MyDll.pdb
