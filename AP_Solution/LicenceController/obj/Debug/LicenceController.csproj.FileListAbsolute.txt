@@ -1,0 +1,14 @@
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\bin\Debug\LicenceController.dll
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\bin\Debug\LicenceController.pdb
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceWindow.g.cs
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController_MarkupCompile.cache
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController_MarkupCompile.lref
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\Themes\Generic.baml
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceWindow.baml
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController.g.resources
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController.Properties.Resources.resources
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController.csproj.GenerateResource.Cache
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController.dll
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController.pdb
+C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\LicenceController\obj\Debug\LicenceController.csprojResolveAssemblyReference.cache
