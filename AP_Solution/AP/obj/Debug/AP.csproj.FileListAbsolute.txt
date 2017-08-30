@@ -13,3 +13,18 @@ C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\AP\obj\Debug\AP.exe
 C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\AP\obj\Debug\AP.pdb
 C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\AP\bin\Debug\LicenceController.dll
 C:\Users\Mickael\Desktop\Atout Protect Mickael\AP_Solution\AP\obj\Debug\AP.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Debug\AP.exe.config
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP.exe
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP.pdb
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Debug\AP.exe
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Debug\AP.pdb
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Debug\LicenceController.dll
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\MainWindow.g.cs
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\App.g.cs
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP_MarkupCompile.cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP_MarkupCompile.lref
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\MainWindow.baml
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP.g.resources
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP.Properties.Resources.resources
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Debug\AP.csproj.GenerateResource.Cache

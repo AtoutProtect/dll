@@ -1,0 +1,14 @@
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\bin\Release\LicenceController.dll
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\bin\Release\LicenceController.pdb
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController.csprojResolveAssemblyReference.cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceWindow.g.cs
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController_MarkupCompile.cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController_MarkupCompile.lref
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\Themes\Generic.baml
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceWindow.baml
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController.g.resources
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController.Properties.Resources.resources
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController.csproj.GenerateResource.Cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController.dll
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\LicenceController.pdb

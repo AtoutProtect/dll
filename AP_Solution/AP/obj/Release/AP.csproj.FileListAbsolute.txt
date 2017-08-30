@@ -1,0 +1,14 @@
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Release\AP.exe.config
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Release\AP.exe
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Release\AP.pdb
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\bin\Release\LicenceController.dll
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\MainWindow.g.cs
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\App.g.cs
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP_MarkupCompile.cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP_MarkupCompile.lref
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\MainWindow.baml
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP.g.resources
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP.Properties.Resources.resources
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP.csproj.GenerateResource.Cache
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP.exe
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\AP\obj\Release\AP.pdb

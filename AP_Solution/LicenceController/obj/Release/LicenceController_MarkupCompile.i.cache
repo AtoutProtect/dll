@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Debug\
+C:\Users\Mickael\Documents\GitDLL\AP_Solution\LicenceController\obj\Release\
 LicenceController
 none
 false
-DEBUG;TRACE
+TRACE
 
 2-2105636249
 
-13-1851932162
+13-961449647
 131254293103
 Themes\Generic.xaml;LicenceWindow.xaml;
 
-False
+True
 

@@ -17,7 +17,7 @@ using LicenceController;
 namespace AP
 {
     /// <summary>
-    /// Logique d'interaction pour MainWindow.xaml
+    /// Logique d'interaction pour MainWindow.xaml test
     /// </summary>
     public partial class MainWindow : Window
     {
